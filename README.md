@@ -1,2 +1,1 @@
-# TinDog
-Tin Dog Website made by using Bootstrap 5
+TinDog Starting Files
